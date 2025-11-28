@@ -1,0 +1,5 @@
+gonode_modules/
+.env
+dist/
+.vscode/
+.DS_Store
